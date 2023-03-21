@@ -1,0 +1,145 @@
+[Tue Mar 21 16:53:08 2023] Starting webserver... 
+[Tue Mar 21 16:53:08 2023] Importing server configuration file ../conf/httpd.conf
+[Tue Mar 21 16:53:12 2023] Server accepted a connection! 
+[Tue Mar 21 16:53:12 2023] Received GET request for  /GET.cgi?FILENAME=index.html
+[Tue Mar 21 16:53:12 2023] Found valid python binary: python3
+[Tue Mar 21 16:53:12 2023] Launching GET CGI script 
+[Tue Mar 21 16:53:12 2023] Server accepted a connection! 
+[Tue Mar 21 16:53:12 2023] Sending requested file to client: ../contents/images/05_01.gif
+[Tue Mar 21 16:53:12 2023] Server accepted a connection! 
+[Tue Mar 21 16:53:12 2023] Server accepted a connection! 
+[Tue Mar 21 16:53:12 2023] Sending requested file to client: ../contents/images/05_03.gif
+[Tue Mar 21 16:53:12 2023] Sending requested file to client: ../contents/images/05_02.gif
+[Tue Mar 21 16:53:12 2023] Server accepted a connection! 
+[Tue Mar 21 16:53:12 2023] Sending requested file to client: ../contents/images/05_04.gif
+[Tue Mar 21 16:53:12 2023] Server accepted a connection! 
+[Tue Mar 21 16:53:12 2023] Sending requested file to client: ../contents/images/05_05.gif
+[Tue Mar 21 16:53:12 2023] Server accepted a connection! 
+[Tue Mar 21 16:53:12 2023] Server accepted a connection! 
+[Tue Mar 21 16:53:12 2023] Sending requested file to client: ../contents/images/05_06.gif
+[Tue Mar 21 16:53:12 2023] Sending requested file to client: ../contents/images/05_07.gif
+[Tue Mar 21 16:53:13 2023] Server accepted a connection! 
+[Tue Mar 21 16:53:13 2023] Server accepted a connection! 
+[Tue Mar 21 16:53:13 2023] Sending requested file to client: ../contents/images/05_08.gif
+[Tue Mar 21 16:53:13 2023] Sending requested file to client: ../contents/images/05_09.gif
+[Tue Mar 21 16:53:13 2023] Server accepted a connection! 
+[Tue Mar 21 16:53:13 2023] Sending requested file to client: ../contents/images/05_10.gif
+[Tue Mar 21 16:53:13 2023] Server accepted a connection! 
+[Tue Mar 21 16:53:13 2023] Sending requested file to client: ../contents/images/05_04-over.gif
+[Tue Mar 21 16:53:13 2023] Server accepted a connection! 
+[Tue Mar 21 16:53:13 2023] Server accepted a connection! 
+[Tue Mar 21 16:53:13 2023] Sending requested file to client: ../contents/images/05_06-over.gif
+[Tue Mar 21 16:53:13 2023] Sending requested file to client: ../contents/images/05_07-over.gif
+[Tue Mar 21 16:53:13 2023] Server accepted a connection! 
+[Tue Mar 21 16:53:13 2023] Sending requested file to client: ../contents/images/05_08-over.gif
+[Tue Mar 21 16:53:30 2023] Server accepted a connection! 
+[Tue Mar 21 16:53:30 2023] Sending requested file to client: ../contents/form.htm
+[Tue Mar 21 16:53:30 2023] Server accepted a connection! 
+[Tue Mar 21 16:53:34 2023] Recieved POST request with parameters  First=hello&Second=there&GO=Submit
+[Tue Mar 21 16:53:34 2023] Found valid python binary: python3
+[Tue Mar 21 16:53:34 2023] Launching POST CGI script 
+[Tue Mar 21 16:54:12 2023] Starting webserver... 
+[Tue Mar 21 16:54:12 2023] Importing server configuration file ../conf/httpd.conf
+[Tue Mar 21 16:54:19 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:19 2023] Sending requested file to client: ../contents/index.html
+[Tue Mar 21 16:54:20 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:20 2023] Sending requested file to client: ../contents/images/05_01.gif
+[Tue Mar 21 16:54:20 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:20 2023] Sending requested file to client: ../contents/images/05_09.gif
+[Tue Mar 21 16:54:20 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:20 2023] Sending requested file to client: ../contents/images/05_10.gif
+[Tue Mar 21 16:54:20 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:20 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:20 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:20 2023] Sending requested file to client: ../contents/images/05_08.gif
+[Tue Mar 21 16:54:20 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:20 2023] Sending requested file to client: ../contents/images/05_02.gif
+[Tue Mar 21 16:54:20 2023] Sending requested file to client: ../contents/images/05_03.gif
+[Tue Mar 21 16:54:20 2023] Sending requested file to client: ../contents/images/05_04.gif
+[Tue Mar 21 16:54:20 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:20 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:20 2023] Sending requested file to client: ../contents/images/05_05.gif
+[Tue Mar 21 16:54:20 2023] Sending requested file to client: ../contents/images/05_06.gif
+[Tue Mar 21 16:54:20 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:20 2023] Sending requested file to client: ../contents/images/05_07.gif
+[Tue Mar 21 16:54:21 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:21 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:21 2023] Sending requested file to client: ../contents/images/05_04-over.gif
+[Tue Mar 21 16:54:21 2023] Sending requested file to client: ../contents/images/05_06-over.gif
+[Tue Mar 21 16:54:21 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:21 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:21 2023] Sending requested file to client: ../contents/images/05_07-over.gif
+[Tue Mar 21 16:54:21 2023] Sending requested file to client: ../contents/images/05_08-over.gif
+[Tue Mar 21 16:54:21 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:43 2023] Sending requested file to client: ../contents/contact.htm
+[Tue Mar 21 16:54:43 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:43 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:43 2023] Sending requested file to client: ../contents/icontact.htm
+[Tue Mar 21 16:54:43 2023] Sending requested file to client: ../contents/images/05_10.gif
+[Tue Mar 21 16:54:43 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:43 2023] Sending requested file to client: ../contents/images/05_09.gif
+[Tue Mar 21 16:54:43 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:43 2023] Sending requested file to client: ../contents/images/05_05.gif
+[Tue Mar 21 16:54:43 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:43 2023] Sending requested file to client: ../contents/images/05_04.gif
+[Tue Mar 21 16:54:43 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:43 2023] Sending requested file to client: ../contents/images/05_03.gif
+[Tue Mar 21 16:54:44 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:44 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:44 2023] Sending requested file to client: ../contents/images/05_06.gif
+[Tue Mar 21 16:54:44 2023] Sending requested file to client: ../contents/images/05_08.gif
+[Tue Mar 21 16:54:44 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:44 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:44 2023] Sending requested file to client: ../contents/images/05_07.gif
+[Tue Mar 21 16:54:44 2023] Sending requested file to client: ../contents/images/05_01.gif
+[Tue Mar 21 16:54:44 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:44 2023] Sending requested file to client: ../contents/images/05_02.gif
+[Tue Mar 21 16:54:44 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:44 2023] Sending requested file to client: ../contents/images/bac_04.jpg
+[Tue Mar 21 16:54:44 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:44 2023] Sending requested file to client: ../contents/images/05_04-over.gif
+[Tue Mar 21 16:54:44 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:44 2023] Sending requested file to client: ../contents/images/05_06-over.gif
+[Tue Mar 21 16:54:44 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:44 2023] Sending requested file to client: ../contents/images/05_07-over.gif
+[Tue Mar 21 16:54:44 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:44 2023] Sending requested file to client: ../contents/images/05_08-over.gif
+[Tue Mar 21 16:54:45 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:45 2023] Sending requested file to client: ../contents/shop.htm
+[Tue Mar 21 16:54:45 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:45 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:45 2023] Sending requested file to client: ../contents/ishop.htm
+[Tue Mar 21 16:54:45 2023] Sending requested file to client: ../contents/images/05_03.gif
+[Tue Mar 21 16:54:45 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:45 2023] Sending requested file to client: ../contents/images/05_07.gif
+[Tue Mar 21 16:54:45 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:45 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:45 2023] Sending requested file to client: ../contents/images/05_04.gif
+[Tue Mar 21 16:54:45 2023] Sending requested file to client: ../contents/images/05_01.gif
+[Tue Mar 21 16:54:45 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:45 2023] Sending requested file to client: ../contents/images/05_02.gif
+[Tue Mar 21 16:54:45 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:45 2023] Sending requested file to client: ../contents/images/05_05.gif
+[Tue Mar 21 16:54:45 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:45 2023] Sending requested file to client: ../contents/images/05_06.gif
+[Tue Mar 21 16:54:45 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:45 2023] Sending requested file to client: ../contents/images/05_08.gif
+[Tue Mar 21 16:54:45 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:45 2023] Sending requested file to client: ../contents/banner2.jpg
+[Tue Mar 21 16:54:45 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:45 2023] Sending requested file to client: ../contents/bullet2.jpg
+[Tue Mar 21 16:54:45 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:45 2023] Sending requested file to client: ../contents/images/05_09.gif
+[Tue Mar 21 16:54:46 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:46 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:46 2023] Sending requested file to client: ../contents/bullet1.jpg
+[Tue Mar 21 16:54:46 2023] Sending requested file to client: ../contents/images/bac_04.jpg
+[Tue Mar 21 16:54:46 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:46 2023] Sending requested file to client: ../contents/images/05_04-over.gif
+[Tue Mar 21 16:54:46 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:46 2023] Sending requested file to client: ../contents/images/05_06-over.gif
+[Tue Mar 21 16:54:46 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:46 2023] Sending requested file to client: ../contents/images/05_07-over.gif
+[Tue Mar 21 16:54:46 2023] Server accepted a connection! 
+[Tue Mar 21 16:54:46 2023] Sending requested file to client: ../contents/images/05_08-over.gif
+[Tue Mar 21 16:54:46 2023] Server accepted a connection! 
